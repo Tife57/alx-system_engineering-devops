@@ -1,0 +1,2 @@
+#!/bin/bash19-AZ
+cut -c1 | paste -s | tr -d "[:blank:]"
